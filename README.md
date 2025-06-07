@@ -3,6 +3,7 @@
 # Security Policy Status
 
 App Name: CampStu
+
 Developer: Mahsun Kalkan
 
 # User Safety & Data Protection
