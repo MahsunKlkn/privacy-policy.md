@@ -41,3 +41,49 @@ The app complies with Google Play's Data Safety, Families Policy, and Misuse Pre
 Built on the principles of transparency, control, and security.
 Users are always informed about how their data is handled.
 
+
+
+
+# Kullanıcı Güvenliği ve Veri Koruma
+ Uygulamamız kullanıcı güvenliğini önceliklendirir ve Google Play politikalarına tam uyum sağlar. Aşağıda uygulamamızın takip ettiği temel güvenlik ve gizlilik prensipleri özetlenmiştir:
+
+# Toplanan Veriler
+ Uygulama aşağıdaki kullanıcı verilerini toplayabilir:
+
+ Kullanıcı adı ve e-posta (hesap oluşturma sırasında)
+
+ Kullanıcı tarafından oluşturulan yorumlar (üniversiteler hakkında)
+
+ Cihaz dili ve ülkesi (analitik ve kullanıcı deneyimi iyileştirmesi için)
+
+# Veri Kullanımı:
+
+ Kullanıcı deneyimini kişiselleştirmek
+
+ Kullanıcı geri bildirimlerini değerlendirmek
+
+ Kullanıcı verileri üçüncü taraflarla paylaşılmaz.
+
+# İzinler ve Erişimler
+ Uygulama yalnızca aşağıdaki izinleri talep eder:
+
+ İnternet erişimi (veri çekmek ve üniversite web sitelerini açmak için)
+
+ Pano erişimi (web sitesi URL’lerini kolayca kopyalamak için)
+
+
+ Uygulama, konum, rehber, mikrofon veya kamera gibi hassas izinlere kullanıcı açıkça izin vermedikçe erişmez.
+
+# Veri Güvenliği
+ Tüm veriler Firebase servisleri kullanılarak güvenli şekilde saklanır.
+
+ Veri iletimi HTTPS üzerinden güvenlidir.
+
+ Kullanıcı verileri sadece uygulama deneyimini geliştirmek için işlenir.
+
+ 13 yaşından küçük çocuklardan veri toplanmaz.
+
+# Politika Uyumu
+ Uygulama, Google Play’in Veri Güvenliği, Aile Politikası ve Kötüye Kullanım Önleme kurallarına uygundur.
+
+ Şeffaflık, kontrol ve güvenlik prensipleri temelinde hareket eder. Kullanıcılar verilerinin nasıl işlendiği hakkında her zaman bilgilendirilir.
