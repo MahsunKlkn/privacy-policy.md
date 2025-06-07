@@ -1,9 +1,9 @@
 # privacy-policy.md
 
 # Security Policy Status
-# App Name: CampStu
-# Developer: Mahsun Kalkan
-#
+App Name: CampStu
+Developer: Mahsun Kalkan
+
 # User Safety & Data Protection
  Our application prioritizes user safety and complies fully with Google Play policies. Below is an outline of the key security and #privacy principles followed by our app:
 
