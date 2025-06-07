@@ -1,6 +1,7 @@
 # privacy-policy.md
 
 # Security Policy Status
+
 App Name: CampStu
 Developer: Mahsun Kalkan
 
